@@ -15,3 +15,4 @@ Hack supports async in the sense that, similar to JS, I believe we can create pr
 This and other parts of this document came from the following URL: (Hack HHVM Website)[http://docs.hhvm.com/hack/overview/typing]
 
 Please see that for more information.
+
